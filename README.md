@@ -1,7 +1,7 @@
 ## Hello hello!
-##I'm Rachel, and I'm currently very new to Github. I've learned how to upload to Github specifically for classes, but that's about the extent of my knowledge.
-##I'm hoping to get better at using this website with time. This account is mostly just for class.
-##Here's to hoping! Wish me luck! 🌟✨🌟✨
+I'm Rachel, and I'm currently very new to Github. I've learned how to upload to Github specifically for classes, but that's about the extent of my knowledge. \n
+I'm hoping to get better at using this website with time. This account is mostly just for class. \n
+Here's to hoping! Wish me luck! 🌟✨🌟✨
 
 <!--
 **uzc6jw/uzc6jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
